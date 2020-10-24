@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/ColorVisual/static/css/main.e990a5f1.chunk.css",
-    "main.js": "/ColorVisual/static/js/main.19240464.chunk.js",
-    "main.js.map": "/ColorVisual/static/js/main.19240464.chunk.js.map",
-    "runtime-main.js": "/ColorVisual/static/js/runtime-main.257c8c8e.js",
-    "runtime-main.js.map": "/ColorVisual/static/js/runtime-main.257c8c8e.js.map",
-    "static/css/2.f2850afe.chunk.css": "/ColorVisual/static/css/2.f2850afe.chunk.css",
-    "static/js/2.656edc91.chunk.js": "/ColorVisual/static/js/2.656edc91.chunk.js",
-    "static/js/2.656edc91.chunk.js.map": "/ColorVisual/static/js/2.656edc91.chunk.js.map",
-    "index.html": "/ColorVisual/index.html",
-    "precache-manifest.f569c976f199b17f3c5e3a8926443513.js": "/ColorVisual/precache-manifest.f569c976f199b17f3c5e3a8926443513.js",
-    "service-worker.js": "/ColorVisual/service-worker.js",
-    "static/css/2.f2850afe.chunk.css.map": "/ColorVisual/static/css/2.f2850afe.chunk.css.map",
-    "static/css/main.e990a5f1.chunk.css.map": "/ColorVisual/static/css/main.e990a5f1.chunk.css.map",
-    "static/media/avg.jpeg": "/ColorVisual/static/media/avg.5e705c37.jpeg",
-    "static/media/cones.png": "/ColorVisual/static/media/cones.6a85887d.png",
-    "static/media/graph.png": "/ColorVisual/static/media/graph.cd84b857.png",
-    "static/media/rgb.png": "/ColorVisual/static/media/rgb.bd51bd33.png"
+    "main.css": "/ColorVisual/Viz/public/index.html/static/css/main.e990a5f1.chunk.css",
+    "main.js": "/ColorVisual/Viz/public/index.html/static/js/main.a4f33906.chunk.js",
+    "main.js.map": "/ColorVisual/Viz/public/index.html/static/js/main.a4f33906.chunk.js.map",
+    "runtime-main.js": "/ColorVisual/Viz/public/index.html/static/js/runtime-main.906f36a5.js",
+    "runtime-main.js.map": "/ColorVisual/Viz/public/index.html/static/js/runtime-main.906f36a5.js.map",
+    "static/css/2.f2850afe.chunk.css": "/ColorVisual/Viz/public/index.html/static/css/2.f2850afe.chunk.css",
+    "static/js/2.656edc91.chunk.js": "/ColorVisual/Viz/public/index.html/static/js/2.656edc91.chunk.js",
+    "static/js/2.656edc91.chunk.js.map": "/ColorVisual/Viz/public/index.html/static/js/2.656edc91.chunk.js.map",
+    "index.html": "/ColorVisual/Viz/public/index.html/index.html",
+    "precache-manifest.697c5fe6ba9dbc8d516ce28ba920e96e.js": "/ColorVisual/Viz/public/index.html/precache-manifest.697c5fe6ba9dbc8d516ce28ba920e96e.js",
+    "service-worker.js": "/ColorVisual/Viz/public/index.html/service-worker.js",
+    "static/css/2.f2850afe.chunk.css.map": "/ColorVisual/Viz/public/index.html/static/css/2.f2850afe.chunk.css.map",
+    "static/css/main.e990a5f1.chunk.css.map": "/ColorVisual/Viz/public/index.html/static/css/main.e990a5f1.chunk.css.map",
+    "static/media/avg.jpeg": "/ColorVisual/Viz/public/index.html/static/media/avg.5e705c37.jpeg",
+    "static/media/cones.png": "/ColorVisual/Viz/public/index.html/static/media/cones.6a85887d.png",
+    "static/media/graph.png": "/ColorVisual/Viz/public/index.html/static/media/graph.cd84b857.png",
+    "static/media/rgb.png": "/ColorVisual/Viz/public/index.html/static/media/rgb.bd51bd33.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.257c8c8e.js",
+    "static/js/runtime-main.906f36a5.js",
     "static/css/2.f2850afe.chunk.css",
     "static/js/2.656edc91.chunk.js",
     "static/css/main.e990a5f1.chunk.css",
-    "static/js/main.19240464.chunk.js"
+    "static/js/main.a4f33906.chunk.js"
   ]
 }
