@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { Navbar } from "react-bootstrap";
 import "./App.css";
 import Routes from "./Routes";
-import { Provider } from './Context'
+import { Provider } from './Context';
 
 
 
@@ -18,9 +18,7 @@ class App extends Component {
       this.setState(context)
     }
 
-   
-
-
+}
   render() {
     return (
         <Provider value={this.state}>         
